@@ -1,6 +1,8 @@
+package basics;
+
 import java.util.Scanner;
 
-class Average {
+public class Average {
 	static void printAverage(double number1, double number2, double number3) {
 		double average = (number1 + number2 + number3) / 3;
 		System.out.println("Average = " + average);

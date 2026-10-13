@@ -1,3 +1,5 @@
+package basics;
+
 public class InfiniteDoWhile {
     public static void main(String[] args) {
         do {
