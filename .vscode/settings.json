@@ -1,3 +1,5 @@
 {
-    "codeium.enableCodeLens": false
+    "codeium.enableCodeLens": false,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": ["JAVA PROGRAMMS 1"]
 }
